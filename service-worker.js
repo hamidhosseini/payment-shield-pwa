@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6dd29052b7b5bf754e5bbefd71e1f731.js"
+  "/payment-shield-pwa/precache-manifest.62e96fe079e868c8847f263739437b42.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "payment-shield"});
